@@ -1,0 +1,13 @@
+#rectangle {
+  height: 50px;
+  width: 200px;
+  background-color: rgb(223, 164, 164);
+}
+
+#rectangle2 {
+  position: relative;
+  height: 50px;
+  width: 200px;
+  background-color: rgb(164, 192, 223);
+  left: 200px;
+}
